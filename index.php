@@ -6,7 +6,7 @@
     <body>
     <h1>Welcome to my Website! I am Michael Alian </h1>
     <ul>
-        <li><a href="homepage.html"> HOME</a></li>
+        <li><a href="index.html"> HOME</a></li>
         
     </ul>
     </body>
